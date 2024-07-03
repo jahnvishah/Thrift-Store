@@ -4,8 +4,8 @@ ThriftStore
 
 ThriftStore is an innovative e-commerce platform developed as an academic project, designed to promote sustainable shopping by facilitating the buying and selling of second-hand clothing, sunglasses, shoes, and other items. Built with Django and SQLite, this application not only supports environmental sustainability but also offers a user-friendly interface for an engaging shopping experience.
 
-**Key Features
-**
+**Key Features**
+
 **User Uploads:** Users can easily upload items they wish to sell, including details such as pick-up location, price, and photos.
 **Messaging System:** A built-in messaging system allows buyers and sellers to communicate directly, ensuring a smooth transaction process.
 **User Profiles and Following:** Users can maintain their profiles and follow others, creating a personalized feed of items from people they follow, displayed in reverse chronological order.
