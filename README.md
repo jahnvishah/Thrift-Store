@@ -1,4 +1,4 @@
-ThriftStore
+Thrift Store
 
 **Introduction**
 
